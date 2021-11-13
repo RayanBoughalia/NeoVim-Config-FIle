@@ -4,7 +4,7 @@
 :set tabstop=4
 :set shiftwidth=4
 :set smarttab
-:set softtabstop=4
+:set softtabstop=2
 :set mouse=a
 
 source $HOME\AppData\Local\nvim\plugged\coc.nvim\autoload\coc.vim
